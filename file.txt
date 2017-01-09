@@ -1,0 +1,3 @@
+hai this is a git blog
+
+git is a vcs tool
